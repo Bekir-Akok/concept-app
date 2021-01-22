@@ -1,4 +1,4 @@
-# <a href="https://concept-app.vercel.app/" >Canlı</a>
+# <a href="https://concept-app.vercel.app/" target="_blank" >Canlı</a>
 ## Tasarımsal bir çalışma.
 ## Form için email-js kullandım.
 
