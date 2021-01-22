@@ -82,18 +82,18 @@ function transparent(){
                     </Flex>
                     <MenuUln>
                         <Link to="/menu"><MenuLin><Linkn>Our Work</Linkn></MenuLin></Link>
-                        <Link to="/menu"><MenuLin><Linkn>Our Service</Linkn></MenuLin></Link>
+                        <Link to="/service"><MenuLin><Linkn>Our Service</Linkn></MenuLin></Link>
                         <Link to="/menu"><MenuLin><Linkn>About us</Linkn></MenuLin></Link>
-                        <Link to="/menu"><MenuLin><Linkn>News & Insights</Linkn></MenuLin></Link>
+                        <Link to="/service"><MenuLin><Linkn>News & Insights</Linkn></MenuLin></Link>
                         <Link to="/menu"><MenuLin><Linkn>Contact</Linkn></MenuLin></Link>
                     </MenuUln>
                     <Line/>
                     <MenuBottom>
                         <MenuUln1>
                             <Link to="/menu"><MenuLin1><Linkn1>Careers – Hiring!</Linkn1></MenuLin1></Link>
-                            <Link to="/menu"><MenuLin1><Linkn1>Free Design & UX Audit</Linkn1></MenuLin1></Link>
+                            <Link to="/service"><MenuLin1><Linkn1>Free Design & UX Audit</Linkn1></MenuLin1></Link>
                             <Link to="/menu"><MenuLin1><Linkn1>Headless eCommerce</Linkn1></MenuLin1></Link>
-                            <Link to="/menu"><MenuLin1><Linkn1>Charity partnership</Linkn1></MenuLin1></Link>
+                            <Link to="/service"><MenuLin1><Linkn1>Charity partnership</Linkn1></MenuLin1></Link>
                             <Link to="/menu"><MenuLin1><Linkn1>Our brand</Linkn1></MenuLin1></Link>
                         </MenuUln1>
                         <Display>
