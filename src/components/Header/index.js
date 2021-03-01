@@ -58,7 +58,7 @@ function transparent(){
 
     useEffect(() => {
         setHead();
-    }, [head])
+    }, [])
 
     return (
         <Header>
